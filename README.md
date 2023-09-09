@@ -1,5 +1,5 @@
 # Projects_in_Russian
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| # | Название проекта | Описание| Стек |
+| ------------- | ------------- | --------| -----|
+| Content Cell  | Content Cell  |    |   |
+| Content Cell  | Content Cell  |   |   | 
