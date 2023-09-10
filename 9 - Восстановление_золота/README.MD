@@ -11,7 +11,7 @@
 python  
 pandas  
 numpy  
-matplotlib 
+matplotlib  
 scipy  
 sklearn.model_selection.cross_val_score  
 sklearn.metrics.mean_squared_error  
