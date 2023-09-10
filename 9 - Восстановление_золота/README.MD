@@ -11,15 +11,17 @@
 python  
 pandas  
 numpy  
+matplotlib 
 scipy  
 sklearn.model_selection.cross_val_score  
 sklearn.metrics.mean_squared_error  
-sklearn.metrics.mean_absolute_error  
-sklearn.preprocessing.StandardScaler  
+sklearn.metrics.mean_absolute_error 
+sklearn.metrics.make_scorer
 sklearn.linear_model.LinearRegression  
 sklearn.tree.DecisionTreeRegressor  
 sklearn.ensemble.RandomForestRegressor  
-matplotlib  
+sklearn.dummy.DummyRegressor
+sklearn.model_selection.GridSearchCV
 
 **Общий вывод:**  
 Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
