@@ -15,8 +15,8 @@ matplotlib
 scipy  
 sklearn.model_selection.cross_val_score  
 sklearn.metrics.mean_squared_error  
-sklearn.metrics.mean_absolute_error 
-sklearn.metrics.make_scorer
+sklearn.metrics.mean_absolute_error  
+sklearn.metrics.make_scorer  
 sklearn.linear_model.LinearRegression  
 sklearn.tree.DecisionTreeRegressor  
 sklearn.ensemble.RandomForestRegressor  
