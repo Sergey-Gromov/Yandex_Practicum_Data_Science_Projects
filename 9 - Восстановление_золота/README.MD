@@ -20,8 +20,8 @@ sklearn.metrics.make_scorer
 sklearn.linear_model.LinearRegression  
 sklearn.tree.DecisionTreeRegressor  
 sklearn.ensemble.RandomForestRegressor  
-sklearn.dummy.DummyRegressor
-sklearn.model_selection.GridSearchCV
+sklearn.dummy.DummyRegressor  
+sklearn.model_selection.GridSearchCV  
 
 **Общий вывод:**  
 Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
