@@ -1,4 +1,4 @@
-# Прогнозирование отттока клиентов телеком компании
+# Прогнозирование оттока клиентов телеком компании
 
 **Цель проекта:**  
 Разработка модели модели машинного обучения для оператора связи, позволяющей прогнозировать отток клиентов.
@@ -14,21 +14,20 @@ pandas
 numpy  
 matplotlib  
 seaborn  
-sklearn.metrics.accuracy_score
-sklearn.metrics.roc_auc_score
-sklearn.metrics.roc_curve
-sklearn.metrics.confusion_matrix
-sklearn.metrics.ConfusionMatrixDisplay
-sklearn.preprocessing.OneHotEncoder
-sklearn.preprocessing.StandardScaler
-sklearn.l_selection.train_test_split
-sklearn.model_selection.GridSearchCV
-sklearn.ensemble.RandomForestClassifier
-sklearn.linear_model.LogisticRegression
-sklearn.dummy.DummyClassifier
-catboost.CatBoostClassifier
-lightgbm.LGBMClassifier
-phik.phik_matrix
-
+sklearn.metrics.accuracy_score  
+sklearn.metrics.roc_auc_score  
+sklearn.metrics.roc_curve  
+sklearn.metrics.confusion_matrix  
+sklearn.metrics.ConfusionMatrixDisplay  
+sklearn.preprocessing.OneHotEncoder  
+sklearn.preprocessing.StandardScaler  
+sklearn.l_selection.train_test_split  
+sklearn.model_selection.GridSearchCV  
+sklearn.ensemble.RandomForestClassifier  
+sklearn.linear_model.LogisticRegression  
+sklearn.dummy.DummyClassifier  
+catboost.CatBoostClassifier  
+lightgbm.LGBMClassifier  
+phik.phik_matrix 
 **Общий вывод:**  
 Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
