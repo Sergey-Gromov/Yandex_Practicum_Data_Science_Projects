@@ -12,8 +12,8 @@
 python  
 pandas  
 numpy  
-matplotlib 
-seaborn
+matplotlib  
+seaborn  
 sklearn.metrics.accuracy_score
 sklearn.metrics.roc_auc_score
 sklearn.metrics.roc_curve
