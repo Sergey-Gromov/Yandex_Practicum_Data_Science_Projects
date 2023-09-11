@@ -28,6 +28,6 @@ sklearn.linear_model.LogisticRegression
 sklearn.dummy.DummyClassifier  
 catboost.CatBoostClassifier  
 lightgbm.LGBMClassifier  
-phik.phik_matrix 
+phik.phik_matrix  
 **Общий вывод:**  
 Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
