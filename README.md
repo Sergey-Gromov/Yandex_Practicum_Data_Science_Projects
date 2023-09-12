@@ -1,4 +1,4 @@
-# Projects_in_Russian
+# Portfolio_in_Russian
 | # | Название проекта | Описание| Стек |
 | ------- | ------------- | --------| -----|
 |9|[Улучшение процесса обогащения золота](https://github.com/Sergey-Gromov/Portfolio_in_Russian/tree/main/09-%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0)|Выбор лучшей модели регрессии для увеличения показателей технологического процесса обогащения золота|python, pandas, numpy, scipy, sklearn, matplotlib|
