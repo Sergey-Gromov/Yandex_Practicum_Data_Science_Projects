@@ -12,7 +12,6 @@
 **Навыки и инструменты:**  
 python  
 pandas  
-numpy  
 matplotlib  
 seaborn  
 sklearn  
