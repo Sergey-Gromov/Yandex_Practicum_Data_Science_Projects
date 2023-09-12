@@ -14,8 +14,7 @@ python
 pandas  
 matplotlib  
 seaborn  
-sklearn  
-CatBoost  
+sklearn    
 LightGBM  
 nltk    
 
