@@ -14,7 +14,7 @@ python
 pandas  
 numpy  
 matplotlib  
-PIL.Image
+PIL.Image  
 tensorflow.keras
 
 **Общий вывод:**  
