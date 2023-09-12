@@ -11,13 +11,12 @@ python
 pandas  
 numpy  
 matplotlib  
-seaborn
-os
-statsmodels
-sklearn
-CatBoost
-LightGBM
-
+seaborn  
+os  
+statsmodels  
+sklearn  
+CatBoost  
+LightGBM  
 
 **Общий вывод:**  
 Предлагается использовать разработанную в данном проекте модель на основе градиентного бустинга LightGBM с подобранными гиперпараметрами для предсказания количества заказов такси на следующий час, чтобы привлекать больше водителей в период пиковой нагрузки.  
