@@ -22,7 +22,7 @@ sklearn.metrics.ConfusionMatrixDisplay
 sklearn.preprocessing.OneHotEncoder  
 sklearn.preprocessing.StandardScaler  
 sklearn.l_selection.train_test_split  
-sklearn.model_selection.GridSearchCV
+sklearn.model_selection.GridSearchCV  
 sklearn.pipeline.make_pipeline
 sklearn.ensemble.RandomForestClassifier  
 sklearn.linear_model.LogisticRegression  
