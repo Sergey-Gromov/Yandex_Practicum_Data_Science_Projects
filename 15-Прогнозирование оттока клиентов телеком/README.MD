@@ -20,7 +20,7 @@ sklearn.metrics.roc_curve
 sklearn.metrics.confusion_matrix  
 sklearn.metrics.ConfusionMatrixDisplay  
 sklearn.preprocessing.OneHotEncoder  
-sklearn.preprocessing.StandardScaler  
+sklearn.preprocessing.RobustScaler  
 sklearn.l_selection.train_test_split  
 sklearn.model_selection.GridSearchCV  
 sklearn.pipeline.make_pipeline  
