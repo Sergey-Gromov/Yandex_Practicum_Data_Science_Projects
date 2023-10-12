@@ -13,9 +13,9 @@
 python  
 pandas  
 numpy  
-matplotlib
-seaborn 
-scipy 
+matplotlib  
+seaborn  
+scipy  
 
 **Общий вывод:**
 В рекламных кампаниях с целью достижения максимального роста продаж имеет смысл отдать приоритет:
