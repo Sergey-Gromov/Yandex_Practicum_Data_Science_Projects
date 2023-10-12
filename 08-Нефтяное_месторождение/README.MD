@@ -6,12 +6,12 @@
 В рамках проекта будет построена модель машинного обучения с использованием линейной регрессии, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и риски будут проанализированы техникой Bootstrap.
 
 **Навыки и инструменты:**
-python
-pandas
-numpy
-sklearn.model_selection.train_test_split
-sklearn.linear_model.LinearRegression
-sklearn.metrics/mean_squared_error
+python  
+pandas  
+numpy  
+sklearn.model_selection.train_test_split  
+sklearn.linear_model.LinearRegression  
+sklearn.metrics.mean_squared_error  
 
 **Общий вывод:**
 - Из трех регионов только регион 1 (geo_data_1) показал уровень риска меньше заданого критерия 2.5%, и соответственно он один должен быть ототбран.
