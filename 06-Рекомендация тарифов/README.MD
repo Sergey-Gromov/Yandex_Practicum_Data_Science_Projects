@@ -14,7 +14,7 @@ sklearn.metrics.accuracy_score
 sklearn.tree.DecisionTreeClassifier  
 sklearn.ensemble.RandomForestClassifier  
 sklearn.linear_model.LogisticRegression  
-from sklearn.dummy.DummyClassifier  
+sklearn.dummy.DummyClassifier  
 
 **Общий вывод:**
 - лучшей моделью по результатам исследования признана модель случайного леса с количеством деревьев 3
