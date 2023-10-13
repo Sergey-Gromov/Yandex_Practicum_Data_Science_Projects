@@ -9,12 +9,12 @@
 **Навыки и инструменты:**  
 python  
 pandas  
-sklearn.model_selection.train_test_split
-sklearn.metrics.accuracy_score
-sklearn.tree.DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model.LogisticRegression
-from sklearn.dummy.DummyClassifier 
+sklearn.model_selection.train_test_split  
+sklearn.metrics.accuracy_score  
+sklearn.tree.DecisionTreeClassifier  
+sklearn.ensemble.RandomForestClassifier  
+sklearn.linear_model.LogisticRegression  
+from sklearn.dummy.DummyClassifier  
 
 **Общий вывод:**
 - лучшей моделью по результатам исследования признана модель случайного леса с количеством деревьев 3
