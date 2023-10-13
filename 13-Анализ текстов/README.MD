@@ -14,26 +14,25 @@ python
 pandas  
 matplotlib  
 seaborn  
-sklearn.model_selection.train_test_split
-sklearn.linear_model.import LogisticRegression
-sklearn.feature_extraction.text.TfidfVectorizer
-sklearn.dummy.DummyClassifier
-sklearn.metrics.f1_score
-sklearn.model_selection.GridSearchCV
-sklearn.decomposition.TruncatedSVD
-lightgbm.LGBMClassifier
-re
-tqdm.notebook.tqdm
-tqdm.pandas()
-string
-nltk.stem.WordNetLemmatizer
-nltk.tokenize.word_tokenize
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.corpus.stopwords
-nltk.corpus.wordnet
-
+sklearn.model_selection.train_test_split  
+sklearn.linear_model.import LogisticRegression  
+sklearn.feature_extraction.text.TfidfVectorizer  
+sklearn.dummy.DummyClassifier  
+sklearn.metrics.f1_score  
+sklearn.model_selection.GridSearchCV  
+sklearn.decomposition.TruncatedSVD  
+lightgbm.LGBMClassifier  
+re  
+tqdm.notebook.tqdm  
+tqdm.pandas()  
+string  
+nltk.stem.WordNetLemmatizer  
+nltk.tokenize.word_tokenize  
+nltk.download('punkt')  
+nltk.download('stopwords')  
+nltk.download('wordnet')  
+nltk.corpus.stopwords  
+nltk.corpus.wordnet  
 
 **Общий вывод:**  
 Сотрудникам интернет-магазина предлагается использовать разработанную в данном проекте модель Логистической регрессии с подобранными гиперпараметрами для классификации комментариев на позитивные и негативные, в рамках нового сервиса, с целью поиска токсичных комментариев и отправки их на модерацию.  
