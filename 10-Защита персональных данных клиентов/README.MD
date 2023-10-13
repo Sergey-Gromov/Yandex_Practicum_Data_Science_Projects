@@ -7,10 +7,7 @@
 python  
 pandas  
 numpy  
-matplotlib  
-seaborn  
-sklearn  
-CatBoost  
-LightGBM  
+from sklearn.linear_model.LinearRegression
+from sklearn.metrics.r2_score
 
 **Общий вывод:**  
