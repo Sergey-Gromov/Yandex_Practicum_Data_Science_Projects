@@ -7,18 +7,18 @@ F1-мера будет проверяться на тестовой выборк
 
 **Навыки и инструменты:**  
 python  
-pandas
-matplotlib
-sklearn.metrics.accuracy_score
-sklearn.metrics.f1_score
-sklearn.metrics.roc_auc_score
-sklearn.tree.DecisionTreeClassifier
-sklearn.ensemble.RandomForestClassifier
-sklearn.linear_model.LogisticRegression
-sklearn.dummy.DummyClassifier
-sklearn.utils.shuffle
-sklearn.preprocessing.StandardScaler
-sklearn.preprocessing.OneHotEncoder
+pandas  
+matplotlib  
+sklearn.metrics.accuracy_score  
+sklearn.metrics.f1_score  
+sklearn.metrics.roc_auc_score  
+sklearn.tree.DecisionTreeClassifier  
+sklearn.ensemble.RandomForestClassifier  
+sklearn.linear_model.LogisticRegression  
+sklearn.dummy.DummyClassifier  
+sklearn.utils.shuffle  
+sklearn.preprocessing.StandardScaler  
+sklearn.preprocessing.OneHotEncoder  
 
 **Общий вывод:**
 Построенную в рамках данного проекта систему анализа поведения клиентов можно применять для выявления целевой группы клиентской базы с наибольшей вероятностью ухода, что может помочь выработке специального комплекса мер по их удержанию.**
