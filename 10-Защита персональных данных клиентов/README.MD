@@ -6,8 +6,8 @@
 python  
 pandas  
 numpy  
-from sklearn.linear_model.LinearRegression
-from sklearn.metrics.r2_score
+sklearn.linear_model.LinearRegression
+sklearn.metrics.r2_score
 
 **Общий вывод:**  
 После умножения матрицы признаков на обратимую матрицу, качество предсказания изменилось лишь в 14-м знаке после запятой что означает, что данный метод можно использовать для шифрования.
