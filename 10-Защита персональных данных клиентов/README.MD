@@ -6,7 +6,7 @@
 python  
 pandas  
 numpy  
-sklearn.linear_model.LinearRegression
+sklearn.linear_model.LinearRegression  
 sklearn.metrics.r2_score
 
 **Общий вывод:**  
